@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'The History Teacher', folder: 'pages', file: 'facts.html'}
-- {name: 'Paradox', folder: 'pages', file: 'resources.html'}
-- {name: 'Overstatement', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Understatement', folder: 'pages', file: 'documentation.html'}
-- {name: 'Irony', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'The History Teacher', folder: 'pages', file: 'poem.html'}
+- {name: 'Paradox', folder: 'pages', file: 'paradox.html'}
+- {name: 'Overstatement', folder: 'pages', file: 'overstatement.html'}
+- {name: 'Understatement', folder: 'pages', file: 'understatement.html'}
+- {name: 'Irony', folder: 'pages', file: 'irony.html'}
+- {name: 'Contact', folder: 'pages', file: 'graphic.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 
