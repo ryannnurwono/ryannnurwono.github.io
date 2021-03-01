@@ -12,7 +12,7 @@ menu:
 - {name: 'Overstatement', folder: 'pages', file: 'overstatement.html'}
 - {name: 'Understatement', folder: 'pages', file: 'understatement.html'}
 - {name: 'Irony', folder: 'pages', file: 'irony.html'}
-- {name: 'Contact', folder: 'pages', file: 'graphic.html'}
+- {name: 'Graphic', folder: 'pages', file: 'graphic.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 
